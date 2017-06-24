@@ -591,3 +591,7 @@ section.screenshots h2 {
 body {
     webkit-tap-highlight-color: #222222;
 }
+
+footer .container p{
+    text-align: right;
+}
